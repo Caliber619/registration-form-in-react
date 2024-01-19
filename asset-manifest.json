@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Caliber619/registration-form-in-react.git/static/css/main.ce2c1797.css",
+    "main.js": "/Caliber619/registration-form-in-react.git/static/js/main.1ced0373.js",
+    "static/js/787.eae03de6.chunk.js": "/Caliber619/registration-form-in-react.git/static/js/787.eae03de6.chunk.js",
+    "index.html": "/Caliber619/registration-form-in-react.git/index.html",
+    "main.ce2c1797.css.map": "/Caliber619/registration-form-in-react.git/static/css/main.ce2c1797.css.map",
+    "main.1ced0373.js.map": "/Caliber619/registration-form-in-react.git/static/js/main.1ced0373.js.map",
+    "787.eae03de6.chunk.js.map": "/Caliber619/registration-form-in-react.git/static/js/787.eae03de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2c1797.css",
+    "static/js/main.1ced0373.js"
+  ]
+}
